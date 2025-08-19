@@ -14,4 +14,4 @@ Bem-vindo ao repositório! Este é um projeto de exemplo para demonstrar o uso b
 
 ----
 
-## Como Trabalhsr com o git
+## Como Trabalhar com o git
